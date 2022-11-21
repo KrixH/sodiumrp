@@ -12,6 +12,18 @@ html {
           box-sizing: inherit;
 }
 
+
+.footer {
+	background-color: #00000070;
+	color: #ffffff3f;
+	padding: 15px;
+	position: fixed;
+	width: 150%;
+	bottom: 0;
+	text-align: center;
+}
+
+
 body {
   font-family: "Poppins", sans-serif;
   line-height: 1.3;
